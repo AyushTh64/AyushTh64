@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ML Project**
 
-- 🌱 I’m currently learning **ML Stack**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **DSA, Java, ML, Python**
 
