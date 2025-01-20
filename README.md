@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushth64&label=Profile%20views&color=0e75b6&style=flat" alt="ayushth64" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **ML Project**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **ML Stack**
 
 - 💬 Ask me about **DSA, Java, ML, Python**
 
